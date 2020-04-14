@@ -1,0 +1,7 @@
+#Exclude directories 
+bin
+.vs
+#excludeFile 
+GameEngine_Hazel/*.vcxproj*
+Sandbox_Application/*.vcxproj*
+GameEngine_Hazel.sln
